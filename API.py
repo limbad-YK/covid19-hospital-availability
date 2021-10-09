@@ -1,11 +1,9 @@
 from flask import Flask, Response, request
 import pymongo
-from urllib.request import urlopen
 import json
+import os 
 
 app = Flask(__name__)
-
-url = 'https://api.covidbedsindia.in/v1/storages/60b1c92490b4574e2c831017/Districts'
 
 try:
     mongo = pymongo.MongoClient(
@@ -113,9 +111,11 @@ def index():
 @app.route('/availability',methods=['GET'])
 def show_details():
     try:
-        resp=urlopen(url)
+        file=os.path.join("","Data.json")
+        with open(file) as data:
+            res=json.load(data)
         return Response(
-            response=json.loads(resp.read()),
+            response=json.dumps(res),
             status=200,
             mimetype="application/json"
         )

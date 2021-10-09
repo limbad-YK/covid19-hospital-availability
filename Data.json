@@ -1,0 +1,3378 @@
+[
+  {
+    "UID": "a854a637-a93b-42c1-9233-68093a9e80d3",
+    "STATE": "Andhra Pradesh",
+    "DISTRICT": "Anantapur",
+    "LAT": "14.2998871",
+    "LONG": "77.4833238",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "a037b82e-a00f-4940-a4e9-bf87b0cd1b4f",
+    "STATE": "Andhra Pradesh",
+    "DISTRICT": "Chittoor",
+    "LAT": "13.208426",
+    "LONG": "79.0118872",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "6171591c-116c-4c6d-b582-e42b49eaf4be",
+    "STATE": "Andhra Pradesh",
+    "DISTRICT": "East Godavari",
+    "LAT": "16.9952507",
+    "LONG": "81.8335035",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "ee61f3be-2e4d-4096-baa1-5d8b543d6e1d",
+    "STATE": "Andhra Pradesh",
+    "DISTRICT": "Guntur",
+    "LAT": "15.948729",
+    "LONG": "80.0770085",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "3ac6cecc-f6f4-4388-921b-d8d8231f5938",
+    "STATE": "Andhra Pradesh",
+    "DISTRICT": "Krishna",
+    "LAT": "16.1578901",
+    "LONG": "80.7317983",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "2db0d6e3-3f5d-47ef-a070-47072a8fb8b3",
+    "STATE": "Andhra Pradesh",
+    "DISTRICT": "Kurnool",
+    "LAT": "15.1767067",
+    "LONG": "77.8898704",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "fbabe23d-42a6-4dc7-972c-c7d8ff27d5cf",
+    "STATE": "Andhra Pradesh",
+    "DISTRICT": "Prakasam",
+    "LAT": "15.3088069",
+    "LONG": "79.5812711",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "0d56df02-ec18-44c6-8e64-495be41ec8dc",
+    "STATE": "Andhra Pradesh",
+    "DISTRICT": "Spsr Nellore",
+    "LAT": "14.1353143",
+    "LONG": "79.7618745",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "53a393c8-ae82-40a0-887a-20a54d75d0e9",
+    "STATE": "Andhra Pradesh",
+    "DISTRICT": "Srikakulam",
+    "LAT": "18.2734803",
+    "LONG": "84.14237",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "36f6358f-bf46-446d-8cd8-c426798f2ee2",
+    "STATE": "Andhra Pradesh",
+    "DISTRICT": "Vizag",
+    "LAT": "17.5670033",
+    "LONG": "82.6582013",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "96d7caee-eea1-4856-99c9-d5a407a7fa9f",
+    "STATE": "Andhra Pradesh",
+    "DISTRICT": "West Godavari",
+    "LAT": "16.6741789",
+    "LONG": "81.4248735",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "3b63b25f-48b5-4a58-b874-439caeeed96e",
+    "STATE": "Andhra Pradesh",
+    "DISTRICT": "YSR",
+    "LAT": "14.2081563",
+    "LONG": "78.8117276",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "ceac77fe-0b06-4bde-aa5d-329d39a7578c",
+    "STATE": "Bihar",
+    "DISTRICT": "Araria",
+    "LAT": "26.2641965",
+    "LONG": "87.0928058",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "f8acfd43-fc3f-40b5-a477-788c0aa340dc",
+    "STATE": "Bihar",
+    "DISTRICT": "Arwal",
+    "LAT": "25.1818229",
+    "LONG": "84.5185808",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "927e2f0d-26a6-44fc-a2af-b5f713756239",
+    "STATE": "Bihar",
+    "DISTRICT": "Aurangabad",
+    "LAT": "24.7647816",
+    "LONG": "84.365171",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "eef8c9c1-ea40-4427-8eba-80189a1f4dea",
+    "STATE": "Bihar",
+    "DISTRICT": "Banka",
+    "LAT": "24.8855988",
+    "LONG": "86.9125842",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "591acf0f-7cb7-4437-a6a1-4dfe13678fdd",
+    "STATE": "Bihar",
+    "DISTRICT": "Begusarai",
+    "LAT": "25.5126634",
+    "LONG": "85.8472151",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "8b23f89f-8f1b-4795-bfe5-f217d5dc1b55",
+    "STATE": "Bihar",
+    "DISTRICT": "Bhagalpur",
+    "LAT": "25.2832266",
+    "LONG": "86.818872",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "bdcf5323-f24f-4a8c-9a7e-2ee2ff58e6cf",
+    "STATE": "Bihar",
+    "DISTRICT": "Bhojpur",
+    "LAT": "25.4488024",
+    "LONG": "84.2838723",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "2142abd2-3d59-4fb6-9636-5fa17e047893",
+    "STATE": "Bihar",
+    "DISTRICT": "Buxar",
+    "LAT": "25.5037857",
+    "LONG": "83.8041549",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "bac728f0-9335-48ff-b26d-f28800f8638a",
+    "STATE": "Bihar",
+    "DISTRICT": "Darbhanga",
+    "LAT": "26.0922507",
+    "LONG": "85.7637461",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "e5528bdc-9125-4d21-a925-612e8d22af8b",
+    "STATE": "Bihar",
+    "DISTRICT": "East Champaran",
+    "LAT": "26.6376485",
+    "LONG": "84.6075991",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "658f645f-ca99-4a5b-ae8d-76089e65799e",
+    "STATE": "Bihar",
+    "DISTRICT": "Gaya",
+    "LAT": "24.6669517",
+    "LONG": "84.5662473",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "b2114213-40c6-49c5-821e-260c3fad98cd",
+    "STATE": "Bihar",
+    "DISTRICT": "Gopalganj",
+    "LAT": "26.4214159",
+    "LONG": "84.1308039",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "43f798dc-c184-4658-8826-c250315e70b4",
+    "STATE": "Bihar",
+    "DISTRICT": "Jamui",
+    "LAT": "24.7558525",
+    "LONG": "85.9406676",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "063632fa-1e0f-4e40-8be4-7ad789a618d4",
+    "STATE": "Bihar",
+    "DISTRICT": "Jehanabad",
+    "LAT": "25.1529187",
+    "LONG": "84.8786635",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "3ee07791-f01e-41d7-8926-1dc23a086998",
+    "STATE": "Bihar",
+    "DISTRICT": "Kaimur",
+    "LAT": "24.9756715",
+    "LONG": "83.3336692",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "ad6d060d-93ab-491e-8faf-6f9158bec11f",
+    "STATE": "Bihar",
+    "DISTRICT": "Katihar",
+    "LAT": "25.5435583",
+    "LONG": "87.3596359",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "e25ce8ea-49a9-4a9a-81f0-7015050b33f5",
+    "STATE": "Bihar",
+    "DISTRICT": "Khagaria",
+    "LAT": "25.5435583",
+    "LONG": "87.3596359",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "aeb45586-5f0d-4936-a243-e6be821eeee4",
+    "STATE": "Bihar",
+    "DISTRICT": "Kishanganj",
+    "LAT": "25.678314",
+    "LONG": "86.9375814",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "89ab0c68-9c08-4733-a759-6c2f5e0e18db",
+    "STATE": "​Bihar",
+    "DISTRICT": "Lakhisarai",
+    "LAT": "25.1522365",
+    "LONG": "86.0081723",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "32e8694d-ac19-4f5d-b1a5-5595c34fdfe9",
+    "STATE": "​Bihar",
+    "DISTRICT": "Madhepura",
+    "LAT": "25.7794295",
+    "LONG": "86.5922981",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "189b5105-e717-4d0a-83f8-600453e4a673",
+    "STATE": "​Bihar",
+    "DISTRICT": "Madhubani",
+    "LAT": "26.3499341",
+    "LONG": "85.9587247",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "89fff872-40c7-4d86-a11c-4259085ea58b",
+    "STATE": "​Bihar",
+    "DISTRICT": "Munger",
+    "LAT": "25.2221464",
+    "LONG": "86.217111",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "4ee28fb9-20e6-4285-acd4-9316f764c940",
+    "STATE": "​Bihar",
+    "DISTRICT": "Muzaffarpur",
+    "LAT": "26.1488267",
+    "LONG": "85.0342919",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "6541c9b0-7c5c-4b93-bdcf-2d93ba6a8b9b",
+    "STATE": "​Bihar",
+    "DISTRICT": "Nalanda",
+    "LAT": "25.2078816",
+    "LONG": "85.2613388",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "5e1139de-81a6-4d73-a4b5-2962b2ed0cfd",
+    "STATE": "​Bihar",
+    "DISTRICT": "Nawada",
+    "LAT": "24.8161124",
+    "LONG": "85.3842864",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "e1b6710f-dc0a-4379-8d24-dfb226ccbf34",
+    "STATE": "​Bihar",
+    "DISTRICT": "Patna",
+    "LAT": "25.5998161",
+    "LONG": "85.1399505",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "f345e803-c9a1-467d-a0da-d7fa6366cc68",
+    "STATE": "​Bihar",
+    "DISTRICT": "Purnia",
+    "LAT": "25.7757952",
+    "LONG": "87.4440956",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "530b2fde-a807-49f4-b7cd-027ebf59cd59",
+    "STATE": "​Bihar",
+    "DISTRICT": "Rohtas",
+    "LAT": "24.9387334",
+    "LONG": "83.7027753",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "a4da90eb-1079-4da4-88a7-fe1ab62365f2",
+    "STATE": "Bihar",
+    "DISTRICT": "Saharsa",
+    "LAT": "25.8337806",
+    "LONG": "86.3155459",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "68732514-36aa-48ff-959a-264157dee7fa",
+    "STATE": "Bihar",
+    "DISTRICT": "Samastipur",
+    "LAT": "25.775385",
+    "LONG": "85.6937425",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "de6216a1-a0ae-427b-a891-22ce34e3a4b2",
+    "STATE": "Bihar",
+    "DISTRICT": "Saran",
+    "LAT": "25.9213192",
+    "LONG": "84.5227716",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "51fc72c5-11f3-42f3-a822-20c37db0fe1d",
+    "STATE": "Bihar",
+    "DISTRICT": "Sheikhpura",
+    "LAT": "25.1243895",
+    "LONG": "85.6699309",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "e1bcdb1f-2bde-49be-97ce-a762fa4f0924",
+    "STATE": "Bihar",
+    "DISTRICT": "Sheohar",
+    "LAT": "26.5133798",
+    "LONG": "85.2410103",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "3ddd0c92-c782-4bdd-874c-696ff8b5010b",
+    "STATE": "Bihar",
+    "DISTRICT": "Sitamarhi",
+    "LAT": "26.5690098",
+    "LONG": "85.2528819",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "f5c388cb-3442-41db-a0c9-891faf465f98",
+    "STATE": "Bihar",
+    "DISTRICT": "Siwan",
+    "LAT": "26.1307597",
+    "LONG": "84.1151941",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "32ed567a-f67e-40ba-89ef-e4fd4d966765",
+    "STATE": "Bihar",
+    "DISTRICT": "Supaul",
+    "LAT": "26.276975",
+    "LONG": "86.4843959",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "a788e151-a63e-421b-97ef-0681deabb9dc",
+    "STATE": "Bihar",
+    "DISTRICT": "Vaishali",
+    "LAT": "25.7533496",
+    "LONG": "85.0813195",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "b9badc02-29da-40c7-9ae7-c2b43970522d",
+    "STATE": "Bihar",
+    "DISTRICT": "West Champaran",
+    "LAT": "27.0504884",
+    "LONG": "83.7387765",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "10cd6ea9-2ab6-4a10-8493-32f74b78d1d7",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Balod",
+    "LAT": "20.7198218",
+    "LONG": "81.1102594",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "f87a3290-6404-438b-bf32-c1218003f37b",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Baloda Bajar",
+    "LAT": "21.5528253",
+    "LONG": "82.3537135",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "2812b9ff-1380-45fc-ae50-1af23927c6e0",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Balrampur",
+    "LAT": "27.4307473",
+    "LONG": "82.1805203",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "1e7cfad8-e8fd-4615-930b-1ac6cbc61562",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Bastar",
+    "LAT": "19.0707193",
+    "LONG": "81.8723022",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "8cb820a7-6e86-429c-add3-821da71cad5a",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Bemetara",
+    "LAT": "21.6715882",
+    "LONG": "81.5077745",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "d1758b99-1150-432e-84ba-2d2f3788804b",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Bijapur",
+    "LAT": "18.7929071",
+    "LONG": "80.7955272",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "61656df6-4f7c-4f9c-83f2-d5a3f3c92e48",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Bilaspur",
+    "LAT": "22.0786795",
+    "LONG": "82.1555922",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "ead01c1e-69f4-45f0-bb89-835f0c88599a",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Dantewada",
+    "LAT": "18.7913715",
+    "LONG": "81.3451614",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "d85bdcce-0ebf-4a46-a5fb-d8412a88862a",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Dhamtari",
+    "LAT": "20.5263208",
+    "LONG": "81.7912934",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "1240e205-bfd4-4eb8-a071-4023831fff27",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Durg",
+    "LAT": "21.1957581",
+    "LONG": "81.3016149",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "a3da5e4f-2838-4a40-82eb-d48a93e4b365",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Gariyabandh",
+    "LAT": "20.4277535",
+    "LONG": "82.2202896",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "a6e24929-8c8e-4a63-8fd6-75b9d7291234",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Gorella Pendra Marwahi",
+    "LAT": "22.8825676",
+    "LONG": "81.9279749",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "103fed59-ad48-455d-8aa0-584fdc04b95e",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Janjgit Champa",
+    "LAT": "21.9430582",
+    "LONG": "82.7409774",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "3f6af620-0989-431e-a2e3-0de50b19c483",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Jashpur",
+    "LAT": "22.7766609",
+    "LONG": "83.7908208",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "d66ddd13-9f40-4d16-ab93-7203a7c23130",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Kanker",
+    "LAT": "20.1069155",
+    "LONG": "81.2142279",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "be3628a4-5198-44a8-8269-fffcf54a328f",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Kawardha",
+    "LAT": "22.1086657",
+    "LONG": "81.1807456",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "ebd7712d-9dff-4234-9f29-b886501bfd5c",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Kondagaon",
+    "LAT": "19.7040248",
+    "LONG": "81.6711867",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "63b8e9e4-5fad-4888-a370-36eec184200b",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Korba",
+    "LAT": "22.5308495",
+    "LONG": "82.5951999",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "fa5c08fc-d403-4aa3-8ef6-b66a1ef908b3",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Koria",
+    "LAT": "23.4333253",
+    "LONG": "82.1657071",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "11a5dbb6-960d-4d1b-8b46-ad59dd80bc7d",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Mahasamund",
+    "LAT": "21.1935001",
+    "LONG": "82.5685247",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "5b0362fe-b0ab-4ac3-921f-76a438d9d3ad",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Mungeli",
+    "LAT": "22.2448079",
+    "LONG": "81.7193814",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "f81da216-6194-41f6-a74e-ce19e97944bf",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Narayanpur",
+    "LAT": "19.6859613",
+    "LONG": "81.2612735",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "101beefd-78ce-454a-ab1b-63af5516d2a4",
+    "STATE": "​Chhattisgarh",
+    "DISTRICT": "Raigarh",
+    "LAT": "22.0622873",
+    "LONG": "83.3322911",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "75ff5a11-b749-45d7-9f6e-e2439610e512",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Raipur",
+    "LAT": "21.2521322",
+    "LONG": "81.6170108",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "cd303320-95b8-4cb4-9214-2861b89a984c",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Rajnandgaon",
+    "LAT": "21.0868213",
+    "LONG": "81.0170989",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "4a481d8a-15cd-4369-bcef-8ac269cec88d",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Sukma",
+    "LAT": "18.2780981",
+    "LONG": "81.3448224",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "3526ebf3-c840-4dbb-a8e2-31249f44a456",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Surajpur",
+    "LAT": "23.327989",
+    "LONG": "82.8542158",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "0183dbee-5c19-4263-9b1b-5eb5dbb215c0",
+    "STATE": "Chhattisgarh",
+    "DISTRICT": "Surguja",
+    "LAT": "22.9314563",
+    "LONG": "83.1918114",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "04b0c0d3-6632-490c-8321-da39755e1ade",
+    "STATE": "Delhi",
+    "DISTRICT": "Delhi",
+    "LAT": "28.6466773",
+    "LONG": "77.182488",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "91c0088a-efce-41c5-86ef-2886282bf2fa",
+    "STATE": "Goa",
+    "DISTRICT": "North Goa",
+    "LAT": "15.5359082",
+    "LONG": "73.9383812",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "ecffd125-a97a-4a35-8c26-24afefe9b332",
+    "STATE": "Goa",
+    "DISTRICT": "South Goa",
+    "LAT": "15.1691423",
+    "LONG": "74.0827845",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "ba7263d1-f523-41ab-a6aa-ed6cac2a0565",
+    "STATE": "Gujarat",
+    "DISTRICT": "Ahmedabad",
+    "LAT": "23.0324082",
+    "LONG": "72.5842058",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "5c487dd4-f961-4bbe-8609-7b32a78c1f4a",
+    "STATE": "Gujarat",
+    "DISTRICT": "Gandhinagar",
+    "LAT": "23.2387966",
+    "LONG": "72.621648",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "fca6c302-9ee9-43f5-8f4b-4726bc6cd61e",
+    "STATE": "Gujarat",
+    "DISTRICT": "Surat",
+    "LAT": "21.1681648",
+    "LONG": "72.8078767",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "43f8c228-6d62-4b0d-bd7e-2f54c4e83da2",
+    "STATE": "Haryana",
+    "DISTRICT": "Ambala",
+    "LAT": "30.372128",
+    "LONG": "76.7774268",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "a0c4bfee-79b1-45fc-8007-470b9347fef6",
+    "STATE": "Haryana",
+    "DISTRICT": "Bhiwani",
+    "LAT": "28.7991128",
+    "LONG": "76.1305033",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "0ce316c6-331c-4ae7-8887-0d97bd4d678d",
+    "STATE": "Haryana",
+    "DISTRICT": "Charki Dadri",
+    "LAT": "28.5934121",
+    "LONG": "76.2629269",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "6743363b-6d33-41c1-9dd1-66d3695bf786",
+    "STATE": "Haryana",
+    "DISTRICT": "Faridabad",
+    "LAT": "28.4031806",
+    "LONG": "77.3290282",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "7f90d7b3-294a-4b74-bf2f-323b243afb30",
+    "STATE": "Haryana",
+    "DISTRICT": "Fatehabad",
+    "LAT": "29.5051287",
+    "LONG": "75.4503522",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "11ecbd99-9ae1-41f9-a6a0-0f2e3fe3ef8f",
+    "STATE": "Haryana",
+    "DISTRICT": "Gurugram",
+    "LAT": "28.4219801",
+    "LONG": "76.9924859",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "23709d7d-dec9-42ff-993d-d22c34408f7b",
+    "STATE": "Haryana",
+    "DISTRICT": "Hisar",
+    "LAT": "29.1506259",
+    "LONG": "75.7239508",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "040adb04-a4d2-4d38-9c91-3d757ba3fac5",
+    "STATE": "Haryana",
+    "DISTRICT": "Jhajjar",
+    "LAT": "28.6053703",
+    "LONG": "76.656312",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "bb2be8e4-b56a-4cfe-a276-7638f3a2f771",
+    "STATE": "Haryana",
+    "DISTRICT": "Jind",
+    "LAT": "29.3097452",
+    "LONG": "76.307773",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "cb1e2a41-3c49-40b8-bf9a-ff289efdf3f5",
+    "STATE": "Haryana",
+    "DISTRICT": "Kaithal",
+    "LAT": "29.793866",
+    "LONG": "76.3988393",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "9a6b0ec9-ecf7-48ad-b2a8-11a63ee2b694",
+    "STATE": "Haryana",
+    "DISTRICT": "Karnal",
+    "LAT": "29.6856134",
+    "LONG": "76.9767585",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "854a8771-36d3-4ec8-a1d2-f627b5c598f0",
+    "STATE": "Haryana",
+    "DISTRICT": "Kurukshetra",
+    "LAT": "29.9696488",
+    "LONG": "76.8812145",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "23ca3678-9991-4057-b05b-d5ef3c960859",
+    "STATE": "Haryana",
+    "DISTRICT": "Mahendragarh",
+    "LAT": "28.26352",
+    "LONG": "76.144021",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "5078d82e-5c0f-44e8-a4d8-04138d73621e",
+    "STATE": "Haryana",
+    "DISTRICT": "Palwal",
+    "LAT": "28.1441541",
+    "LONG": "77.3246723",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "242a12af-847a-42d4-bc9d-7369531345ad",
+    "STATE": "Haryana",
+    "DISTRICT": "Panchkula",
+    "LAT": "30.7020434",
+    "LONG": "76.8516057",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "3f0b0f73-62f6-41d1-aca2-77294ee5695a",
+    "STATE": "Haryana",
+    "DISTRICT": "Panipat",
+    "LAT": "29.3908091",
+    "LONG": "76.9685817",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "5218764d-3fd2-456d-919c-b1cdbf09a0ba",
+    "STATE": "Haryana",
+    "DISTRICT": "Rewari",
+    "LAT": "28.1982391",
+    "LONG": "76.6154261",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "9e46a7eb-534d-4111-8f37-e1bbbe85947e",
+    "STATE": "Haryana",
+    "DISTRICT": "Rohtak",
+    "LAT": "28.8870516",
+    "LONG": "76.605348",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "462ae19f-0e28-45ba-9bb7-d0464162d841",
+    "STATE": "Haryana",
+    "DISTRICT": "Sirsa",
+    "LAT": "29.5351127",
+    "LONG": "75.0310929",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "fc186500-02d9-4b94-bcb2-8406490ca483",
+    "STATE": "Haryana",
+    "DISTRICT": "Sonipat",
+    "LAT": "28.9476949",
+    "LONG": "77.0766424",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "21d3f04a-ed44-42dd-9ce0-797cfcd24a37",
+    "STATE": "Haryana",
+    "DISTRICT": "Yamunanagar",
+    "LAT": "30.1310208",
+    "LONG": "77.2645472",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "04386fa5-21b7-4ab7-a4b2-cd11711f012d",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Garhwa",
+    "LAT": "24.1084558",
+    "LONG": "83.6773928",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "e20e198b-2dba-40d1-9abb-3c9093789994",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Palamu",
+    "LAT": "24.1286106",
+    "LONG": "84.1857115",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "6ca00ea0-64ab-4526-9087-effbc9881c71",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Latehar.",
+    "LAT": "23.7555791",
+    "LONG": "84.3542049",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "1734391f-6a70-4e0b-ae01-3388ce1ee4b4",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Chatra",
+    "LAT": "24.1526331",
+    "LONG": "84.8567932",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "dcab44f0-3fef-432a-b04a-d831e29c2ba2",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Hazaribagh",
+    "LAT": "23.9787306",
+    "LONG": "85.354965",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "becff040-e182-4ae0-9920-affc8734f280",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Koderma",
+    "LAT": "24.4676805",
+    "LONG": "85.5933645",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "f0cd877b-9a6c-43e6-81bd-f14bdf68174a",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Giridih",
+    "LAT": "24.2841482",
+    "LONG": "86.0937312",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "92a5bf54-b4f9-4276-9d23-5d955af3c5c5",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Ramgarh",
+    "LAT": "23.6523678",
+    "LONG": "85.56121",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "4e96537f-0007-48bb-bf94-c46580df1354",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Bokaro",
+    "LAT": "23.6635265",
+    "LONG": "85.971322",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "ee240597-f439-4f6e-86e8-7c034070708c",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Dhanbad",
+    "LAT": "23.8189217",
+    "LONG": "86.4996546",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "c01d4574-db39-4186-8ca0-92102d26d90a",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Gumla",
+    "LAT": "23.1920025",
+    "LONG": "84.5222189",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "88f360a0-946d-48ea-8dd5-fd9c57da3919",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Lohardaga",
+    "LAT": "23.4409325",
+    "LONG": "84.6845216",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "c8f7bee0-3cef-4635-abdf-5514a393368d",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Simdega",
+    "LAT": "22.6151138",
+    "LONG": "84.4959985",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "7e62b325-f46e-40ae-9ecb-d064a24edc29",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Ranchi",
+    "LAT": "23.3461931",
+    "LONG": "85.2781772",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "c36ca707-594e-4944-bc02-bcd5c9830109",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Khunti",
+    "LAT": "23.0797595",
+    "LONG": "85.2774207",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "49018ed4-f5b7-42d7-b780-a195ee8b1ecf",
+    "STATE": "Jharkhand",
+    "DISTRICT": "West Singhbhum",
+    "LAT": "22.3650858",
+    "LONG": "85.4375574",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "4d930fe3-3b95-471a-b8d7-7b0430593f69",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Saraikela Kharsawan",
+    "LAT": "22.8561261",
+    "LONG": "86.0121573",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "643b6be4-4e07-426c-a464-a75dcfd1986d",
+    "STATE": "Jharkhand",
+    "DISTRICT": "East Singhbhum",
+    "LAT": "22.4866756",
+    "LONG": "86.4996546",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "0283732e-04d1-4dea-bc34-c319553a9ced",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Jamtara",
+    "LAT": "23.9709099",
+    "LONG": "86.9423801",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "876df783-8ee3-46a1-b114-8451ee6751e8",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Deoghar",
+    "LAT": "24.392582",
+    "LONG": "86.6611083",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "6a3e6d07-41e2-4b8f-ae21-9f81908fde8f",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Dumka",
+    "LAT": "24.2684794",
+    "LONG": "87.2488088",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "92cd61b0-eb91-4e93-b77f-fe65f1831083",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Pakur",
+    "LAT": "24.55368",
+    "LONG": "87.658113",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "83acb470-31a0-4d7f-b491-2cdcaf45467e",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Godda",
+    "LAT": "24.7850676",
+    "LONG": "87.3016132",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "1c2224c4-798e-4539-aaf3-ca7da935855f",
+    "STATE": "Jharkhand",
+    "DISTRICT": "Sahebganj",
+    "LAT": "25.2381216",
+    "LONG": "87.6453592",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "624f2b50-81a0-4afc-8423-b1f29a686b24",
+    "STATE": "Karnataka",
+    "DISTRICT": "Bengaluru",
+    "LAT": "12.9533282",
+    "LONG": "77.5876808",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "bf660b7a-5bd4-43b7-aa58-4f33d0da4524",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Agar Malwa",
+    "LAT": "23.7047751",
+    "LONG": "76.0174849",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "7d9b493e-5dd4-44c2-8a41-0727e5b8c21a",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Alirajpur",
+    "LAT": "22.3013058",
+    "LONG": "74.3551683",
+    "ZOOM_FACTOR": "15"
+  },
+  {
+    "UID": "be043fbb-ea36-43d7-9f1d-5d0d351ef8ee",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Anuppur",
+    "LAT": "23.0015526",
+    "LONG": "81.6122353",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "9a70946d-e8a6-4b51-9d2c-1dd66c54a20a",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Ashoknagar",
+    "LAT": "24.5601385",
+    "LONG": "77.8640313",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "97b4e867-39b8-4c8e-92d5-a8cf7da22e38",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Balaghat",
+    "LAT": "21.6487823",
+    "LONG": "80.3297566",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "2ed058ab-532a-4152-a316-7179dea11fdd",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Barwani",
+    "LAT": "21.6814418",
+    "LONG": "74.9146487",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "806c1cac-9c90-431b-b172-c5fd828c1217",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Betul",
+    "LAT": "21.5833668",
+    "LONG": "77.8730167",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "9208ecc5-7c22-4570-b993-f9cc4e9756ca",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Bhind",
+    "LAT": "26.3353391",
+    "LONG": "78.7350381",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "90c059f8-fe88-4a87-9395-c29ccbb3cc9f",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Bhopal",
+    "LAT": "23.1782034",
+    "LONG": "77.3804754",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "0ee7087d-0768-407a-a0bb-608b72cec530",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Burhanpur",
+    "LAT": "21.2621596",
+    "LONG": "76.3494025",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "68d1d6d7-4cf9-4b88-9c4c-11d283586bd5",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Chhatarpur",
+    "LAT": "24.5673561",
+    "LONG": "79.7342595",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "0b07cd14-fc83-4915-a7c6-b3abdcd5c833",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Chhindwara",
+    "LAT": "21.8619493",
+    "LONG": "78.9316269",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "62f2fd6a-fa5d-42aa-b69e-4146cd5dc16a",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Damoh",
+    "LAT": "23.5485494",
+    "LONG": "79.4439326",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "353e4579-b673-4488-a7c7-1c002f76f8d8",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Datia",
+    "LAT": "25.8766699",
+    "LONG": "78.5488101",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "9d5ffb81-6ba2-4fef-bc78-d489fa8bfdfc",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Dewas",
+    "LAT": "22.5605161",
+    "LONG": "76.3471646",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "4324d82a-2360-4cca-997e-b9448db1e09f",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Dhar",
+    "LAT": "22.2810923",
+    "LONG": "75.0958889",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "a7a493b3-583f-4350-89dc-884e69a93918",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Dindori",
+    "LAT": "22.9017968",
+    "LONG": "80.9914275",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "f954160b-3ff9-44cc-a3c8-66dd7a4fac5f",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Guna",
+    "LAT": "24.3310555",
+    "LONG": "77.1429218",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "8daacba6-1bbc-4f05-acdc-b959dd93b63e",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Gwalior",
+    "LAT": "26.2142929",
+    "LONG": "78.1713271",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "b7412d79-c583-4790-bd38-12a593ae178c",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Harda",
+    "LAT": "22.2271966",
+    "LONG": "77.0600864",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "4f06e614-9d8c-47a4-a53a-7b8fcb6f7127",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Hoshangabad",
+    "LAT": "22.5401393",
+    "LONG": "77.9005775",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "d8cdb5e9-c798-4e17-b885-c9a0bbbdafda",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Indore",
+    "LAT": "22.7218991",
+    "LONG": "75.8477112",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "3dc16805-b273-4189-99ea-2c363db2c45e",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Jabalpur",
+    "LAT": "23.1734703",
+    "LONG": "79.9584507",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "dcf10088-bc95-42f9-a32d-6150f6907aca",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Jhabua",
+    "LAT": "22.8124306",
+    "LONG": "74.6487851",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "caaa1231-486f-4737-a4c8-8086bd046341",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Katni",
+    "LAT": "23.6861051",
+    "LONG": "80.3967638",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "ee126062-bb69-4101-b04c-6fb13e6e6b97",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Khandwa",
+    "LAT": "21.9705755",
+    "LONG": "76.4713898",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "bcdfb8d0-d12c-4fc0-a5ac-dd93d7d5e424",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Khargone",
+    "LAT": "21.6250793",
+    "LONG": "75.8403997",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "824f51d6-927b-403b-8703-a94270f21160",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Mandla",
+    "LAT": "22.3016509",
+    "LONG": "80.4792372",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "64f87614-b73f-45af-a26f-b0eb05ee7ba2",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Mandsaur",
+    "LAT": "24.2590715",
+    "LONG": "75.3360183",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "f32665a6-f813-4463-94bb-33d46392a672",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Morena",
+    "LAT": "26.395531",
+    "LONG": "77.8872875",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "73558419-b22f-4774-bbfd-ab17c9cd47e4",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Narsinghpur",
+    "LAT": "22.8469566",
+    "LONG": "79.0779011",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "bb5c7b95-0359-491b-86ff-ef3bbc4e895a",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Neemuch",
+    "LAT": "24.6011894",
+    "LONG": "75.1014944",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "4da7e03e-92be-46cf-92c4-70bdd93d54ff",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Niwari",
+    "LAT": "25.3598195",
+    "LONG": "78.8015091",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "0dc3158f-d109-4d79-bdc7-ee5d77e8dd08",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Panna",
+    "LAT": "24.3065037",
+    "LONG": "80.2806879",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "86cef7e7-f638-401e-88a5-83bc5a9119f7",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Raisen",
+    "LAT": "23.2584907",
+    "LONG": "77.8359258",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "6367e09c-53ed-4515-83a1-d76c9dcaf79f",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Rajgarh",
+    "LAT": "23.8646111",
+    "LONG": "76.6486925",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "7bd3ba0c-c5e3-4b0e-a19c-440318245138",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Ratlam",
+    "LAT": "23.5020242",
+    "LONG": "75.1027089",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "6ceec4db-08dc-4dae-8dd4-6451816932e0",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Rewa",
+    "LAT": "24.7540281",
+    "LONG": "81.5562963",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "d1daecad-d7d3-4164-84cc-744a33faa351",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Sagar",
+    "LAT": "23.8028835",
+    "LONG": "78.6163918",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "ca3061e0-bac2-4af9-bbab-03582d3c2c36",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Satna",
+    "LAT": "24.5793452",
+    "LONG": "80.7474505",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "466e4a8c-cb32-4ff6-8ae4-fa9e2fc56aa8",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Sehore",
+    "LAT": "23.1115425",
+    "LONG": "77.1336161",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "8f535c87-f709-4c5e-b32f-a0a9ec7f9029",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Seoni",
+    "LAT": "22.1899446",
+    "LONG": "79.6312739",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "deb2d5ab-a97e-4277-bd7f-73c1af5146f5",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Shahdol",
+    "LAT": "23.643537",
+    "LONG": "81.4647114",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "24dc135f-ef98-4e8b-8533-228fdd7ef16a",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Shajapur",
+    "LAT": "23.3927851",
+    "LONG": "76.5249609",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "1c834305-7667-42ac-8f19-baecb2f062a5",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Sheopur",
+    "LAT": "25.7506366",
+    "LONG": "77.0823181",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "bb5e1859-0ad1-4949-8219-a0e8e53834d1",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Shivpuri",
+    "LAT": "25.2343036",
+    "LONG": "77.9064261",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "674d20df-96e6-4d32-8b4a-d69d8ae36174",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Sidhi",
+    "LAT": "24.1873905",
+    "LONG": "81.822973",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "921f7fbe-a019-4d7d-8cc1-8dd614d93ea2",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Singrauli",
+    "LAT": "24.2283826",
+    "LONG": "82.3680618",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "bc4ff7bd-68c5-4885-bf0d-41840314f461",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Tikamgarh",
+    "LAT": "24.7487367",
+    "LONG": "78.815832",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "cd7f0117-1828-4d8c-8aad-574ac1deaad6",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Ujjain",
+    "LAT": "23.1689159",
+    "LONG": "75.7848602",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "1228ed54-0b29-4124-8b90-2625e4e4004c",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Umaria",
+    "LAT": "23.6084813",
+    "LONG": "80.8867641",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "45fb648e-65c9-4343-84a5-c03b78d54975",
+    "STATE": "Madhya Pradesh",
+    "DISTRICT": "Vidisha",
+    "LAT": "23.8660483",
+    "LONG": "77.7630662",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "1dc84e9f-940c-4750-82e7-fe6d2c39483e",
+    "STATE": "Maharashtra",
+    "DISTRICT": "Nagpur",
+    "LAT": "21.1529068",
+    "LONG": "79.090017",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "788b0d8a-749c-419e-a9ab-e748722f6bd9",
+    "STATE": "Maharashtra",
+    "DISTRICT": "Nashik",
+    "LAT": "19.9883819",
+    "LONG": "73.7821948",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "cc2fea28-c214-4b67-9443-d6fc6ad23211",
+    "STATE": "Maharashtra",
+    "DISTRICT": "Pune",
+    "LAT": "18.5164779",
+    "LONG": "73.8567876",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "be08f321-9fab-4dd7-af16-a7c98ea50c7b",
+    "STATE": "Maharashtra",
+    "DISTRICT": "Thane",
+    "LAT": "19.2164855",
+    "LONG": "72.9741661",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "a8c7a257-3d8c-491b-b6b5-365d75df661a",
+    "STATE": "Odisha",
+    "DISTRICT": "Angul",
+    "LAT": "20.9211366",
+    "LONG": "84.8567932",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "1543c38d-a05b-4f62-a426-ec23cda262fd",
+    "STATE": "Odisha",
+    "DISTRICT": "Boudh",
+    "LAT": "20.6607447",
+    "LONG": "84.1435136",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "4930e7a6-1b2a-41d0-ad2d-724b3346f5dc",
+    "STATE": "Odisha",
+    "DISTRICT": "Balangir",
+    "LAT": "20.6722671",
+    "LONG": "83.1649001",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "de3924c2-4a00-474e-a35c-1bd37dd161aa",
+    "STATE": "Odisha",
+    "DISTRICT": "Bargarh",
+    "LAT": "21.2550301",
+    "LONG": "83.5070203",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "5846395d-839b-4671-9bb7-cb56c2f460d1",
+    "STATE": "Odisha",
+    "DISTRICT": "Balasore (Baleswar)",
+    "LAT": "21.4933578",
+    "LONG": "86.9134794",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "f2cffb45-d1dd-4285-a406-1791acdd177f",
+    "STATE": "Odisha",
+    "DISTRICT": "Bhadrak",
+    "LAT": "21.0126441",
+    "LONG": "86.6207943",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "cbc172af-48b6-4e94-ac33-2001c40c869b",
+    "STATE": "Odisha",
+    "DISTRICT": "Cuttack",
+    "LAT": "20.5167789",
+    "LONG": "85.7256372",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "53d3dd9c-82a7-4790-a101-d52bf46e316f",
+    "STATE": "Odisha",
+    "DISTRICT": "Deogarh (Debagarh)",
+    "LAT": "21.5383136",
+    "LONG": "84.7289442",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "a0ff1f22-a007-4251-a12c-a98cc4c4066a",
+    "STATE": "Odisha",
+    "DISTRICT": "Dhenkanal",
+    "LAT": "20.8424388",
+    "LONG": "85.4375574",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "56068629-ee17-4394-8b0c-b86f24f57883",
+    "STATE": "Odisha",
+    "DISTRICT": "Ganjam",
+    "LAT": "19.5859712",
+    "LONG": "84.6897495",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "3b8e933c-42ee-439b-a468-6ad63e2af2a5",
+    "STATE": "Odisha",
+    "DISTRICT": "Gajapati",
+    "LAT": "19.1912221",
+    "LONG": "84.1857115",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "5a4433c1-51a8-47fa-8afc-edcc11dd8b03",
+    "STATE": "Odisha",
+    "DISTRICT": "Jharsuguda",
+    "LAT": "21.7917978",
+    "LONG": "83.8897057",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "647d3617-ed90-4b00-9551-876cfaebd8a9",
+    "STATE": "Odisha",
+    "DISTRICT": "Jajpur",
+    "LAT": "20.7652197",
+    "LONG": "86.1751759",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "c4147196-f708-461e-9690-1b98c2819e07",
+    "STATE": "Odisha",
+    "DISTRICT": "Jagatsinghapur",
+    "LAT": "20.1975828",
+    "LONG": "86.3376761",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "d0ed8b3b-78fe-4f97-a923-d29620a6f04c",
+    "STATE": "Odisha",
+    "DISTRICT": "Khordha",
+    "LAT": "20.130141",
+    "LONG": "85.4788065",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "1964fc11-83b9-42f7-8e61-c72fe8c56fc3",
+    "STATE": "Odisha",
+    "DISTRICT": "Keonjhar (Kendujhar)",
+    "LAT": "21.628933",
+    "LONG": "85.5816847",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "1a1c6c4e-3dec-4866-a5c1-57efdb129e47",
+    "STATE": "Odisha",
+    "DISTRICT": "Kalahandi",
+    "LAT": "19.9137363",
+    "LONG": "83.1649001",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "7f35edd8-8afd-45f5-ae61-a84b7cbb717a",
+    "STATE": "Odisha",
+    "DISTRICT": "Kandhamal",
+    "LAT": "20.1342042",
+    "LONG": "84.0167423",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "484ade35-5cb6-4ab9-b90b-8378f03c3c1e",
+    "STATE": "Odisha",
+    "DISTRICT": "Koraput",
+    "LAT": "18.8560564",
+    "LONG": "82.7347142",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "46247456-1f23-4443-a60e-b070469d3741",
+    "STATE": "Odisha",
+    "DISTRICT": "Kendrapara",
+    "LAT": "20.5848321",
+    "LONG": "86.6611083",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "9ff51398-1af8-4307-b13c-40b86af3bf62",
+    "STATE": "Odisha",
+    "DISTRICT": "Malkangiri",
+    "LAT": "18.1640803",
+    "LONG": "81.9534815",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "5a9260d9-720c-4885-88cd-b4119d83918e",
+    "STATE": "Odisha",
+    "DISTRICT": "Mayurbhanj",
+    "LAT": "22.0086978",
+    "LONG": "86.4187308",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "17d858d7-ada3-48e8-8e40-c87a2e701f8d",
+    "STATE": "Odisha",
+    "DISTRICT": "Nabarangpur",
+    "LAT": "19.5001322",
+    "LONG": "82.3017728",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "149a9fb6-e283-4477-b20e-1f15e38872f5",
+    "STATE": "Odisha",
+    "DISTRICT": "Nuapada",
+    "LAT": "20.5070532",
+    "LONG": "82.605118",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "33951458-0298-4763-9dda-b2b95f14009d",
+    "STATE": "Odisha",
+    "DISTRICT": "Nayagarh",
+    "LAT": "20.1654348",
+    "LONG": "85.023346",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "859f50c6-4e57-4f17-a79d-4b0b9453c790",
+    "STATE": "Odisha",
+    "DISTRICT": "Puri",
+    "LAT": "19.8088264",
+    "LONG": "85.8215999",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "b1d6b02e-b1d5-4be5-aa98-225072b64e42",
+    "STATE": "Odisha",
+    "DISTRICT": "Rayagada",
+    "LAT": "19.171209",
+    "LONG": "83.4163226",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "83764f94-7fcc-48ea-ae13-029350d5c5c7",
+    "STATE": "Odisha",
+    "DISTRICT": "Sambalpur",
+    "LAT": "21.4698302",
+    "LONG": "84.1857115",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "c533db6b-a605-4441-92a8-26d69978396e",
+    "STATE": "Odisha",
+    "DISTRICT": "Subarnapur (Sonepur)",
+    "LAT": "20.8480141",
+    "LONG": "83.8950042",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "4c6aed98-80a9-4269-bd03-ccbc5aa764ab",
+    "STATE": "Odisha",
+    "DISTRICT": "Sundargarh",
+    "LAT": "22.0571189",
+    "LONG": "84.6897495",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "6b9f9e80-48c2-4b27-bcec-18a568ab558b",
+    "STATE": "​Rajasthan",
+    "DISTRICT": "Ajmer",
+    "LAT": "26.4532432",
+    "LONG": "74.6357137",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "556a89c8-be9d-4473-bdc1-3cf841428a84",
+    "STATE": "​Rajasthan",
+    "DISTRICT": "Alwar",
+    "LAT": "27.5431134",
+    "LONG": "76.576516",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "d5915e43-03f0-43df-b9a1-37f23bcebf90",
+    "STATE": "​Rajasthan",
+    "DISTRICT": "Banswara",
+    "LAT": "23.4819683",
+    "LONG": "74.3681959",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "384551f5-5d97-4cf4-b15a-637677384a2d",
+    "STATE": "​Rajasthan",
+    "DISTRICT": "Baran",
+    "LAT": "24.9119415",
+    "LONG": "76.7404361",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "3fb211b0-f467-44d7-af6a-71da9aac0de8",
+    "STATE": "​Rajasthan",
+    "DISTRICT": "Barmer",
+    "LAT": "25.7674186",
+    "LONG": "71.4008861",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "ee4ed9e8-dafb-45ec-a119-50edad642255",
+    "STATE": "​Rajasthan",
+    "DISTRICT": "Bharatpur",
+    "LAT": "27.2584346",
+    "LONG": "77.2738637",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "b9e3a725-b92f-48dc-b543-52af2397d3ee",
+    "STATE": "​Rajasthan",
+    "DISTRICT": "Bhilwara",
+    "LAT": "25.4672195",
+    "LONG": "74.627918",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "c579768c-a620-426e-bc2d-ba7dd3828ed9",
+    "STATE": "​Rajasthan",
+    "DISTRICT": "Bikaner",
+    "LAT": "28.0210247",
+    "LONG": "73.3137035",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "fb550c32-8429-44f2-8d17-b02314ece9be",
+    "STATE": "​Rajasthan",
+    "DISTRICT": "Bundi",
+    "LAT": "25.4251521",
+    "LONG": "75.7949682",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "f69ac76b-6e40-45e5-b0ea-ccb2a83156a6",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Chittorgarh",
+    "LAT": "24.904755",
+    "LONG": "74.6291467",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "f20dd5fa-9c2a-4e6a-b5d1-31e9f105f595",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Churu",
+    "LAT": "28.2003129",
+    "LONG": "74.5877524",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "b2673250-55db-4c72-93e1-c91b75567f57",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Dausa",
+    "LAT": "26.8056857",
+    "LONG": "76.516186",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "03193daa-701f-4b88-afdc-c0840b26f524",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Dholpur",
+    "LAT": "26.695232",
+    "LONG": "77.8528335",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "8f92c33e-daee-4da9-bf46-ad139af18b20",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Dungarpur",
+    "LAT": "23.8474032",
+    "LONG": "73.7097568",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "ef3d17b3-d28f-4d10-9271-17154f18f9b6",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Ganganagar",
+    "LAT": "29.9070896",
+    "LONG": "73.8672068",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "258e38d3-2dee-42ef-b8a2-40a0623b799d",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Hanumangarh",
+    "LAT": "29.5781346",
+    "LONG": "74.3160532",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "b247fada-5dd1-4c05-954c-67ebff88b6cf",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Jaipur",
+    "LAT": "26.882692",
+    "LONG": "75.7819648",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "4e0ce7d0-5bc9-4410-b0c7-8c261c5f02e3",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Jaisalmer",
+    "LAT": "26.9008955",
+    "LONG": "70.8986778",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "76a16948-f2e8-40be-a92d-e82f36eb153f",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Jalore",
+    "LAT": "25.0844781",
+    "LONG": "72.3066874",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "27bd7e31-7f54-4d58-bb1d-090f38cfd08f",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Jhalawar",
+    "LAT": "24.3571529",
+    "LONG": "76.2001497",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "e8bcaa47-3c1c-4673-9006-a3db74699db4",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Jhunjhunu",
+    "LAT": "28.0704094",
+    "LONG": "75.4838895",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "9c31a58b-da91-4dc5-affa-4358ef94f9c6",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Jodhpur",
+    "LAT": "26.2698806",
+    "LONG": "73.0226443",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "9f7b7c80-7ef5-4e33-8733-6fde0540fdf9",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Karauli",
+    "LAT": "26.5148292",
+    "LONG": "76.9154597",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "b9cdb04f-46b5-4de7-829f-a1aa9288cf3b",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Kota",
+    "LAT": "25.1719881",
+    "LONG": "75.8544992",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "84b2cde6-ef08-48ec-ab67-fb7be364eac4",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Nagaur",
+    "LAT": "27.1895543",
+    "LONG": "73.7427017",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "f7bdc330-21fc-406e-ae61-fe3d355eac7c",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Pali",
+    "LAT": "25.617379",
+    "LONG": "73.4704283",
+    "ZOOM_FACTOR": "9"
+  },
+  {
+    "UID": "f1e05d4d-48ef-4103-b62a-9e03a0724deb",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Pratapgarh",
+    "LAT": "25.9149697",
+    "LONG": "81.9800561",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "f00d40ff-e19a-4952-ac91-652c7ffebc6e",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Rajsamand",
+    "LAT": "25.160997",
+    "LONG": "73.7933838",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "103cf39f-9a89-4476-960f-5b46bb1b29ae",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Sawai Madhopur",
+    "LAT": "26.2195029",
+    "LONG": "76.4419221",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "5245f091-498f-4a29-bdae-b0b24e6ddf45",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Sikar",
+    "LAT": "27.5727663",
+    "LONG": "75.1270443",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "d567d987-35f6-470c-9e88-6ac4a3ce61d3",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Sirohi",
+    "LAT": "24.7997335",
+    "LONG": "72.8164788",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "8701ae88-1c1c-4461-9341-86a933a75d65",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Tonk",
+    "LAT": "26.131346",
+    "LONG": "75.7956789",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "d28f49e0-baed-46a1-942d-b9a7f3ef0c19",
+    "STATE": "Rajasthan",
+    "DISTRICT": "Udaipur",
+    "LAT": "24.6061752",
+    "LONG": "73.701393",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "0c851252-c823-4652-b534-41e61e30f235",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Ariyalur",
+    "LAT": "11.0730265",
+    "LONG": "79.2979303",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "8ea99e86-58e0-4561-b7fc-13fffc6ac42a",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Chengalpattu",
+    "LAT": "12.6673619",
+    "LONG": "79.9906107",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "eb1e0f13-b408-452f-ace9-314ceec356ea",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Chengalpet",
+    "LAT": "12.6673619",
+    "LONG": "79.9906107",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "156779af-6ac3-4417-b3d7-616c40ba6d03",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Chennai",
+    "LAT": "13.041133",
+    "LONG": "80.199388",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "e35ccf84-b5cc-41aa-9f74-9e17896e443e",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Coimbatore",
+    "LAT": "11.0118701",
+    "LONG": "76.8971945",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "56e7a408-3b18-467b-83a1-fedc69c9b433",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Cuddalore",
+    "LAT": "11.5183343",
+    "LONG": "79.3368821",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "b7b6783f-8a77-4b2d-9f66-b47b461dc228",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Dindigul",
+    "LAT": "10.4039652",
+    "LONG": "77.7581924",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "9e0cb262-9863-49cd-bd74-daf3300c8e92",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Erode",
+    "LAT": "11.4908871",
+    "LONG": "77.3531325",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "78567681-e8e8-42cd-8229-7653da94aeab",
+    "STATE": "​Tamil Nadu",
+    "DISTRICT": "Kallakurichi",
+    "LAT": "11.7352646",
+    "LONG": "78.9624254",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "5358e331-a8cd-46bf-a11a-057c7ae04c00",
+    "STATE": "​Tamil Nadu",
+    "DISTRICT": "Kancheepuram",
+    "LAT": "12.648379",
+    "LONG": "79.9066952",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "feb59f1b-89e2-402c-903b-48f06ede81a0",
+    "STATE": "​Tamil Nadu",
+    "DISTRICT": "Kanyakumari",
+    "LAT": "8.3261366",
+    "LONG": "77.3186804",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "ce73da93-268f-4c9a-b00f-74cb24e45184",
+    "STATE": "​Tamil Nadu",
+    "DISTRICT": "Karur",
+    "LAT": "10.828612",
+    "LONG": "78.1100789",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "15eaccce-180c-467e-a863-21bfc6616759",
+    "STATE": "​Tamil Nadu",
+    "DISTRICT": "Krishnagiri",
+    "LAT": "12.5099431",
+    "LONG": "78.0496546",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "30c09510-0745-47e5-becd-011c9d21355f",
+    "STATE": "​Tamil Nadu",
+    "DISTRICT": "Madurai",
+    "LAT": "9.9170741",
+    "LONG": "78.121793",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "59cba1fc-5a13-4cc0-a725-24637a1d1955",
+    "STATE": "​Tamil Nadu",
+    "DISTRICT": "Mayiladuthurai",
+    "LAT": "11.1026335",
+    "LONG": "79.6508519",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "33626fb9-03a0-48f6-a1c0-158492652efd",
+    "STATE": "​Tamil Nadu",
+    "DISTRICT": "Nagapattinam",
+    "LAT": "10.8293421",
+    "LONG": "79.7137003",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "babc66f5-a782-4f6b-b98b-4f63c4212ae6",
+    "STATE": "​Tamil Nadu",
+    "DISTRICT": "Namakkal",
+    "LAT": "11.3040767",
+    "LONG": "78.0875269",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "4520e0b7-00ba-4bcc-85d0-d2efbb3ca08c",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Perambalur",
+    "LAT": "11.279764",
+    "LONG": "78.8769422",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "ee7a21a5-5df5-4f69-ab06-e3aa1d6231c8",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Pudukkottai",
+    "LAT": "10.2926616",
+    "LONG": "78.8410246",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "54b219ab-2cb8-49b1-9896-f22dedc46cb7",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Ramanathapuram",
+    "LAT": "9.4722941",
+    "LONG": "78.6666509",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "d74c7212-7010-4b14-9d3e-d9bdaeaa7a43",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Salem",
+    "LAT": "11.5969447",
+    "LONG": "78.1757148",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "cd0ad62c-badc-4849-90d7-4c151d26ada4",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Sivagangai",
+    "LAT": "9.922224",
+    "LONG": "78.6402117",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "39eeb7cf-23a2-4e98-b8ac-2340931e0209",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Tenkasi",
+    "LAT": "8.9583979",
+    "LONG": "77.313534",
+    "ZOOM_FACTOR": "15"
+  },
+  {
+    "UID": "4c6dc1a2-8460-4454-afc2-4c7868dafb64",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Thanjavur",
+    "LAT": "10.6784073",
+    "LONG": "79.2540597",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "344c7753-e959-488a-9b75-8d35ca478591",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Theni",
+    "LAT": "9.8646065",
+    "LONG": "77.4556597",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "83346d21-fb97-4b81-8f38-2452cc0efd7d",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "TheNilgiris",
+    "LAT": "11.3978824",
+    "LONG": "76.5910591",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "787e4ecb-4968-40b7-b8e2-8170fec51f97",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Thiruchirappalli",
+    "LAT": "10.8568547",
+    "LONG": "78.5304504",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "3d7fdfdc-be93-4615-96d4-c2c511bb88ae",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Thiruvarur",
+    "LAT": "10.5947106",
+    "LONG": "79.5894527",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "c831c61b-746a-47f0-936d-3c4d6b92f1a1",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Thoothukudi",
+    "LAT": "8.8471924",
+    "LONG": "78.0227476",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "b2fe790b-73af-4ef4-9767-d7eeed705c0f",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Tirunelveli",
+    "LAT": "8.6782371",
+    "LONG": "77.5821117",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "c3c4a6ef-dcef-4732-baee-360162a125a8",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Tiruppur",
+    "LAT": "10.8139226",
+    "LONG": "77.3062108",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "7896acab-522c-47ec-8452-a40535b091e6",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Tiruvallur",
+    "LAT": "13.2428793",
+    "LONG": "80.0943502",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "35037744-853d-44cc-8ab8-d7fe20ea60bd",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Tiruvannamalai",
+    "LAT": "12.4274754",
+    "LONG": "79.1375182",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "b50fe885-d66e-4f20-816f-3b8530c03b8b",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Vellore",
+    "LAT": "12.9008054",
+    "LONG": "79.1444322",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "d66b74b9-04da-4c81-b5fd-aec5d1cf8f0e",
+    "STATE": "Tamil Nadu",
+    "DISTRICT": "Virudhunagar",
+    "LAT": "9.4653822",
+    "LONG": "77.9079651",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "6fc2c384-666c-4ecb-a6e2-b434befc5753",
+    "STATE": "Telangana",
+    "DISTRICT": "Adilabad",
+    "LAT": "19.6618588",
+    "LONG": "78.5351437",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "09af1204-e113-478e-8cb0-94771e52344e",
+    "STATE": "Telangana",
+    "DISTRICT": "Badradri",
+    "LAT": "17.6276612",
+    "LONG": "80.7789769",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "cb686389-4014-40c3-8a7a-f172354062f1",
+    "STATE": "Telangana",
+    "DISTRICT": "Hyderabad",
+    "LAT": "17.4086963",
+    "LONG": "78.4581602",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "87d3fc48-66f0-4793-9ff9-65d57ababa6b",
+    "STATE": "Telangana",
+    "DISTRICT": "Jagtial",
+    "LAT": "18.7894372",
+    "LONG": "78.9184211",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "6e87c6f0-13b6-497f-9ecb-2044b6c60512",
+    "STATE": "Telangana",
+    "DISTRICT": "Jangaon",
+    "LAT": "17.728075",
+    "LONG": "79.1593583",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "5e43ef3c-89ca-408e-8c4d-8ea4727d0170",
+    "STATE": "Telangana",
+    "DISTRICT": "Jayashankar",
+    "LAT": "18.4292109",
+    "LONG": "79.8533664",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "e8880929-d1f5-4844-bad7-3c89607db348",
+    "STATE": "Telangana",
+    "DISTRICT": "Kamareddy",
+    "LAT": "18.321426",
+    "LONG": "78.3372186",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "21d53224-c3de-49ec-bf61-541fb71969f2",
+    "STATE": "Telangana",
+    "DISTRICT": "Karimnagar",
+    "LAT": "18.4330919",
+    "LONG": "79.1336625",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "b56d9abb-f647-4897-ad39-2e52551bd879",
+    "STATE": "Telangana",
+    "DISTRICT": "Khammam",
+    "LAT": "17.2472866",
+    "LONG": "80.1470011",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "59828120-5bb3-4d4e-b93a-8e83d7611422",
+    "STATE": "Telangana",
+    "DISTRICT": "Komaram Bheem",
+    "LAT": "19.3445087",
+    "LONG": "79.4778865",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "21083c85-43e2-478b-a154-d8c9c0c4351e",
+    "STATE": "Telangana",
+    "DISTRICT": "Mahabubabad",
+    "LAT": "17.5992483",
+    "LONG": "79.9996786",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "32193bb5-5288-4be7-8982-b9135aeaabca",
+    "STATE": "Telangana",
+    "DISTRICT": "Mahabubnagar",
+    "LAT": "16.7441648",
+    "LONG": "78.0064696",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "4c61ed09-e6c4-40a0-9c59-9cb165543ddb",
+    "STATE": "Telangana",
+    "DISTRICT": "Mancherial",
+    "LAT": "18.8804315",
+    "LONG": "79.4566649",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "e693b70b-bf8f-4dc3-8429-782514a43699",
+    "STATE": "Telangana",
+    "DISTRICT": "Medak",
+    "LAT": "18.0499535",
+    "LONG": "78.2710194",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "86e61f28-8ab8-4a4a-a902-092b7caae45b",
+    "STATE": "​Telangana",
+    "DISTRICT": "Medchal",
+    "LAT": "17.6308651",
+    "LONG": "78.4853853",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "ba802238-36aa-4614-8926-d07e9b443eaa",
+    "STATE": "​Telangana",
+    "DISTRICT": "Nagarkurnool",
+    "LAT": "16.4915205",
+    "LONG": "78.3066414",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "5a920352-fd5f-4973-9323-94307d3fc185",
+    "STATE": "​Telangana",
+    "DISTRICT": "Nalgonda",
+    "LAT": "17.0538242",
+    "LONG": "79.2706484",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "db453699-8bb3-47cb-af0e-d1369212d158",
+    "STATE": "​Telangana",
+    "DISTRICT": "Nirmal",
+    "LAT": "19.0901111",
+    "LONG": "78.3449433",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "6a48bf2c-7c9b-4aef-b0ed-14b77af22499",
+    "STATE": "​Telangana",
+    "DISTRICT": "Nizamabad",
+    "LAT": "18.6798212",
+    "LONG": "78.0891461",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "fa5753a4-0207-4dcf-8616-94a19a7b3109",
+    "STATE": "​Telangana",
+    "DISTRICT": "Peddapalli",
+    "LAT": "18.6077274",
+    "LONG": "79.3828338",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "3c26a778-1be3-4054-a9d3-5b403374c454",
+    "STATE": "​Telangana",
+    "DISTRICT": "Rajanna",
+    "LAT": "18.3886556",
+    "LONG": "78.8150803",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "20260a0e-a8b6-47b6-a710-df16535fd7f8",
+    "STATE": "​Telangana",
+    "DISTRICT": "Rangareddy",
+    "LAT": "17.2512509",
+    "LONG": "78.1023499",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "ccb7400a-ba6a-4ae0-bff4-c5588c5922c7",
+    "STATE": "​Telangana",
+    "DISTRICT": "Sangareddy",
+    "LAT": "17.6114635",
+    "LONG": "78.0797088",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "305186bc-04fd-4302-a00d-ec761a4e92d2",
+    "STATE": "​Telangana",
+    "DISTRICT": "Siddipet",
+    "LAT": "18.1015989",
+    "LONG": "78.8471709",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "fd6c8650-e9e5-4c00-9648-5370422952f4",
+    "STATE": "​Telangana",
+    "DISTRICT": "Suryapet",
+    "LAT": "16.9999412",
+    "LONG": "79.9584367",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "bfb06712-ca9c-4076-b087-69d25a20b379",
+    "STATE": "​Telangana",
+    "DISTRICT": "Wanaparthy",
+    "LAT": "16.3559253",
+    "LONG": "78.0596636",
+    "ZOOM_FACTOR": "14"
+  },
+  {
+    "UID": "e4ba7794-4236-429d-af01-621a936166dc",
+    "STATE": "​Telangana",
+    "DISTRICT": "Warangal Rural",
+    "LAT": "16.3559253",
+    "LONG": "78.0596636",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "24e6cf83-c105-4cc7-89bd-7be351ffb08b",
+    "STATE": "​Telangana",
+    "DISTRICT": "Warangal Urban",
+    "LAT": "17.9997004",
+    "LONG": "79.5684808",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "9774b3d4-69e9-48c6-9d46-dfbf0b0759a3",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Agra",
+    "LAT": "27.1766701",
+    "LONG": "78.0080745",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "954c052a-b5ea-4ed6-9879-1d01d4086f5f",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Aligarh",
+    "LAT": "27.8973944",
+    "LONG": "78.0880129",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "c4fe90b0-708d-45a5-96d8-37068139cbfc",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Ambedkar Nagar",
+    "LAT": "26.4683952",
+    "LONG": "82.6915429",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "c74ebc8b-0f07-42ae-8086-b1513b42496a",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Amethi",
+    "LAT": "26.1540538",
+    "LONG": "81.814238",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "ebb98b2d-014a-4e42-b984-5c0c346d7bc0",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Amroha",
+    "LAT": "28.9051778",
+    "LONG": "78.467318",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "e76b8475-017f-418b-bef7-8cc9595da064",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Auraiya",
+    "LAT": "26.4605377",
+    "LONG": "79.5112528",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "075c2fd4-d292-453c-9ea8-e17081003caf",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Ayodhya(Faizabad)",
+    "LAT": "26.7921605",
+    "LONG": "82.1997954",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "e14d5a55-032c-41b3-b34e-b1cbeda789a3",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Azamgarh",
+    "LAT": "26.0739138",
+    "LONG": "83.1859495",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "bd872aea-ad1e-4e99-8bee-0bf1fa43cb75",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Badaun",
+    "LAT": "28.0311101",
+    "LONG": "79.1271229",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "34850a05-cf68-4f47-b3af-f530e299bd4c",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Baghpat",
+    "LAT": "28.9427827",
+    "LONG": "77.227607",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "c643baf6-cb9b-4ebe-936b-2172d60f0389",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Ballia",
+    "LAT": "25.8307174",
+    "LONG": "84.1857115",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "80d40f2d-4e0e-4593-9ff7-f8c7c766d5b1",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Balrampur",
+    "LAT": "27.4307473",
+    "LONG": "82.1805203",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "149fa9ff-ac73-4dc4-9732-323f567d673d",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Banda",
+    "LAT": "25.4780612",
+    "LONG": "80.3095",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "bc104a91-7dd7-49fa-b326-75655c9b94ea",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Barabanki",
+    "LAT": "26.9268042",
+    "LONG": "81.1833809",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "12711e16-f52c-4f4b-9b33-09cbfa99e511",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Bareilly",
+    "LAT": "28.3670355",
+    "LONG": "79.4304381",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "857f2e4d-b728-4658-9ba0-75ab07a50524",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Basti",
+    "LAT": "26.8139844",
+    "LONG": "82.7629893",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "f663b95c-b31b-4a12-a57d-677ae9dedf69",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Behraich",
+    "LAT": "27.5705152",
+    "LONG": "81.5976672",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "738b6799-f7d4-4639-b5c0-d678e8dd6469",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Bhadohi",
+    "LAT": "25.3804531",
+    "LONG": "82.5676981",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "aa4415eb-94cd-4517-bc45-7169d0c5664e",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Bijnor",
+    "LAT": "29.3731673",
+    "LONG": "78.1350904",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "fd11b3c0-1ac5-4a3e-9d39-7307e036644f",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Bulandshahar",
+    "LAT": "28.406963",
+    "LONG": "77.8498292",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "b2ed1f2c-a1e1-49f8-97ad-cbbf35345b38",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Chandauli",
+    "LAT": "25.2604696",
+    "LONG": "83.264538",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "dfe3c7e4-e448-4e70-8857-ef17d1f94a5d",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Chitrakoot",
+    "LAT": "25.1788154",
+    "LONG": "80.8654534",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "276eef66-30d3-477f-a24e-d7af9401f332",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Deoria",
+    "LAT": "26.5024286",
+    "LONG": "83.7791283",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "af44891f-9294-46da-88c6-ce3164256c6f",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Etah",
+    "LAT": "27.5625106",
+    "LONG": "78.6654148",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "6fd1a595-476b-423e-8837-3271dcd53994",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Etawah",
+    "LAT": "26.8458148",
+    "LONG": "79.1096901",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "53f4fe7c-5a0e-439b-b6bd-c6fe484181ca",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Farrukhabad",
+    "LAT": "27.3825853",
+    "LONG": "79.5840195",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "fa539d19-fd18-4845-9d90-96b6eca19434",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Fatehpur",
+    "LAT": "25.9209503",
+    "LONG": "80.7996035",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "614e2494-b467-4d46-975f-b7e5654a9bd1",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Firozabad",
+    "LAT": "27.1591961",
+    "LONG": "78.3957331",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "418285fe-e5d3-4245-aad9-cf8c1820c431",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Gautam Buddha Nagar",
+    "LAT": "28.338333",
+    "LONG": "77.6077865",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "86ff2560-d565-44b5-a38a-5dc87980842a",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Ghaziabad",
+    "LAT": "28.6691565",
+    "LONG": "77.4537578",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "84816fde-42ff-4e20-bc01-64ea3e96b67f",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Ghazipur",
+    "LAT": "25.5877901",
+    "LONG": "83.5783078",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "f88afdf4-c7d0-46a4-a1c4-318b846c4723",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Gonda",
+    "LAT": "27.1339874",
+    "LONG": "81.9618979",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "5055b4c0-07f3-4d61-924f-b156e6eb12ac",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Gorakhpur",
+    "LAT": "26.7605545",
+    "LONG": "83.3731675",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "a77730b3-6e8f-4e80-a3ce-f01305f5d2bf",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Hamirpur",
+    "LAT": "25.9547631",
+    "LONG": "80.1443408",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "082d9f56-a5fc-4e80-9b59-76e1a0774b97",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Hapur",
+    "LAT": "28.7305798",
+    "LONG": "77.7758825",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "ae20090e-8995-4ec8-866c-9db6b8122d19",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Hardoi",
+    "LAT": "27.3965071",
+    "LONG": "80.1250479",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "30b8287e-e6a6-403c-9ae8-adf5e8a8c1c5",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Hathras",
+    "LAT": "27.5980718",
+    "LONG": "78.0492265",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "536b3947-e013-49ff-a826-ee3eef8a90f1",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Jalaun",
+    "LAT": "26.1458649",
+    "LONG": "79.3296565",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "106aed65-91d3-424b-b48b-66a84b176d4e",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Jaunpur",
+    "LAT": "25.7464145",
+    "LONG": "82.6837033",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "3ec51909-7aa4-4bc3-a769-b5e68c84d9a3",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Jhansi",
+    "LAT": "25.4484257",
+    "LONG": "78.5684594",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "a8b6f74b-24c7-4afe-8875-8d37eebbc5de",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Kannauj",
+    "LAT": "27.0514156",
+    "LONG": "79.9136731",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "cdd37303-6ebc-408a-b815-cd3e3893879b",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Kanpur Dehat",
+    "LAT": "26.526707",
+    "LONG": "79.8296743",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "9beb20a8-21ac-4172-95bb-a22aef081707",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Kanpur Nagar",
+    "LAT": "26.4148245",
+    "LONG": "80.2321313",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "64b7ded0-5460-416b-ad75-f4c156db5823",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Kaushambi",
+    "LAT": "25.361054",
+    "LONG": "81.4031707",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "d98ad8b4-f581-4832-b4d8-51616515bc0a",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Kushinagar",
+    "LAT": "26.7398787",
+    "LONG": "83.8869698",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "8ad0ba71-5bf0-48ff-b08a-2811d29e5cd7",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Lakhimpur Kheri",
+    "LAT": "27.9462395",
+    "LONG": "80.7787163",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "6a01b60d-e0de-44a0-a543-8939acd7aded",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Lalitpur",
+    "LAT": "27.6587525",
+    "LONG": "85.3247183",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "8d4db0e6-dd88-4c93-9b73-48010bb76eec",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Lucknow",
+    "LAT": "26.8466937",
+    "LONG": "80.946166",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "b7b7bbc9-7085-4cc6-a7ab-1348f2f5b34d",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Maharajganj",
+    "LAT": "27.1446035",
+    "LONG": "83.5621737",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "06e693ec-68d6-4b08-b643-f46c11cf67b8",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Mahoba",
+    "LAT": "25.2920964",
+    "LONG": "79.8724168",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "e14da079-ca93-43de-a6df-45bdcd11a7b1",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Mainpuri",
+    "LAT": "27.2281937",
+    "LONG": "79.0251659",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "252d84b5-0af6-4087-8b13-1a98f1ae08a8",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Mathura",
+    "LAT": "27.4924134",
+    "LONG": "77.673673",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "1fbe409c-c1ea-46d2-8649-e54c29eeaec5",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Maunathbhanjan",
+    "LAT": "25.9462838",
+    "LONG": "83.5610119",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "02ab58b8-083a-4eea-89d9-39ab87c6a45c",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Meerut",
+    "LAT": "28.9844618",
+    "LONG": "77.7064137",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "8f016702-7afc-478c-a786-cbfd5ca14f1b",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Mirzapur",
+    "LAT": "25.1336987",
+    "LONG": "82.5644344",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "63af704a-dc68-4543-8571-97af153c66fe",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Moradabad",
+    "LAT": "28.8386481",
+    "LONG": "78.7733286",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "9c6f00be-187d-490d-a010-3d5f5dd84d62",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Muzaffarnagar",
+    "LAT": "29.4726817",
+    "LONG": "77.7085091",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "4abad5fc-45fe-4fd8-a47c-1c968c532caa",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Pilibhit",
+    "LAT": "28.62494",
+    "LONG": "79.8075272",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "8634a1a6-d922-4300-8f11-80e829a9161f",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Pratapgarh",
+    "LAT": "25.9149697",
+    "LONG": "81.9800561",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "f7ac1bef-d5c7-46aa-8f65-aba977fa4642",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Prayagraj",
+    "LAT": "25.4358011",
+    "LONG": "81.846311",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "63190208-2a9c-4743-8b1e-7202381d69a3",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Raebareli",
+    "LAT": "26.2144806",
+    "LONG": "81.2528139",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "166094f5-094f-47b9-b995-0a234fd38cda",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Rampur",
+    "LAT": "28.798299",
+    "LONG": "79.0220287",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "8615921f-2973-4301-9b04-816446bf95da",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Saharanpur",
+    "LAT": "29.9680035",
+    "LONG": "77.5552066",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "5e8041f4-57d4-4e22-9596-9c4387fefadc",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Sambhal",
+    "LAT": "28.5903614",
+    "LONG": "78.5717631",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "dc500e04-5bfb-4a44-986f-7f06bda61fbe",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Sant Kabir Nagar",
+    "LAT": "26.7671755",
+    "LONG": "83.0361376",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "697e7798-27a8-4c33-9492-7c5bfbcdad65",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Shahjahanpur",
+    "LAT": "27.8753399",
+    "LONG": "79.9147268",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "ff975a66-efb7-43f6-be67-7f979ad9f874",
+    "STATE": "​Uttar Pradesh",
+    "DISTRICT": "Shamli",
+    "LAT": "29.4501986",
+    "LONG": "77.3172046",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "5e5fa3b0-478c-4e85-a946-194d0193360c",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Shravasti",
+    "LAT": "27.5035427",
+    "LONG": "82.036461",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "5ec0c15d-1daa-4805-86cf-ef7ce6b5f0d7",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Siddharthnagar",
+    "LAT": "27.2715633",
+    "LONG": "82.820974",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "1203a23e-4986-4d7a-8779-ea8f8553da67",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Sitapur",
+    "LAT": "27.5680156",
+    "LONG": "80.6789519",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "ded18dd7-cc67-4b66-b785-d969ed510005",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Sonbhadra",
+    "LAT": "24.6850005",
+    "LONG": "83.0683519",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "230c168a-4cba-4f31-ab64-5a0e330e8a9f",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Sultanpur",
+    "LAT": "26.2585371",
+    "LONG": "82.0659858",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "39e9e1de-0940-4567-a609-3b1448daf50c",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Unnao",
+    "LAT": "26.5393449",
+    "LONG": "80.4878195",
+    "ZOOM_FACTOR": "13"
+  },
+  {
+    "UID": "beb98871-3b5f-4641-a010-7df7aa7462aa",
+    "STATE": "Uttar Pradesh",
+    "DISTRICT": "Varanasi",
+    "LAT": "25.3176452",
+    "LONG": "82.9739144",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "bf84ca07-bd1b-4312-9a43-dc1b9264e301",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Almora",
+    "LAT": "29.564543",
+    "LONG": "79.6563003",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "39f3ee15-eacf-472b-af2d-dba6624c2205",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Bageshwar",
+    "LAT": "29.8105062",
+    "LONG": "79.75064",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "aaec7b94-42f2-47c6-aafb-247ded456b7a",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Chamoli",
+    "LAT": "30.4704722",
+    "LONG": "79.5049999",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "823d0a31-23ac-428e-998a-52bb3f94dc7c",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Champawat",
+    "LAT": "29.312527",
+    "LONG": "80.0709492",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "46f87987-4155-4b0d-a342-90740e27b076",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Dehradun",
+    "LAT": "30.3095158",
+    "LONG": "77.980278",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "f401403c-9f60-4577-9146-60e9f6e871fd",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Haridwar",
+    "LAT": "29.8845027",
+    "LONG": "77.9861646",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "44586d63-3123-4467-a050-9ff1fea90c52",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Nainital",
+    "LAT": "29.272",
+    "LONG": "79.4851438",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "7704572d-09f6-4b53-8964-c5c14516c43d",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Pauri Garhwal",
+    "LAT": "29.8539831",
+    "LONG": "78.6989742",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "a7fa51db-66be-4c70-afd9-e27fc9646966",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Pithoragarh",
+    "LAT": "29.6969944",
+    "LONG": "80.1764527",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "aaac5e1f-581e-4569-9482-90e54d42babc",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Rudraprayag",
+    "LAT": "30.3633755",
+    "LONG": "79.009041",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "e7d2f635-1f26-4300-b7bb-9fdb496be1f4",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Tehri Garhwal",
+    "LAT": "30.3259873",
+    "LONG": "78.4072486",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "20e42f2d-ec7e-453d-b82e-5973176bee90",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Udam Singh Nagar",
+    "LAT": "29.0437119",
+    "LONG": "79.3254541",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "a8b84603-0870-422e-bbe0-22064113a51f",
+    "STATE": "Uttarakhand",
+    "DISTRICT": "Uttarkashi",
+    "LAT": "30.905614",
+    "LONG": "78.385969",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "90d52f1e-ede5-4d4c-8f26-0a9526876fbb",
+    "STATE": "West Bengal",
+    "DISTRICT": "Kolkata",
+    "LAT": "22.639634",
+    "LONG": "88.3502869",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "271151ad-c8cb-4790-b7a8-cd49482b9ffd",
+    "STATE": "West Bengal",
+    "DISTRICT": "Alipurduar",
+    "LAT": "26.4805605",
+    "LONG": "89.5370466",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "39d94d5f-5147-4cb5-b108-eedd814a0713",
+    "STATE": "West Bengal",
+    "DISTRICT": "Bankura",
+    "LAT": "23.2247826",
+    "LONG": "87.0627024",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "1f908290-50ea-4d5b-ad17-c7b77c850acb",
+    "STATE": "West Bengal",
+    "DISTRICT": "Birbhum",
+    "LAT": "23.7335789",
+    "LONG": "87.7285189",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "23d31876-2ada-4a83-942e-cabc209228fc",
+    "STATE": "West Bengal",
+    "DISTRICT": "Coochbehar",
+    "LAT": "26.3168082",
+    "LONG": "89.4473167",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "9463222b-7a68-48b1-bf8d-f3f061e16f84",
+    "STATE": "West Bengal",
+    "DISTRICT": "Dakshin Dinajpur",
+    "LAT": "25.161314",
+    "LONG": "88.5545508",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "3b029907-08e7-44e0-8e37-8f3995f0ccd8",
+    "STATE": "West Bengal",
+    "DISTRICT": "Darjeeling",
+    "LAT": "27.0176695",
+    "LONG": "88.2682793",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "b8e3b56c-7fe2-44f3-89fa-8b29f15caf80",
+    "STATE": "West Bengal",
+    "DISTRICT": "Hooghly",
+    "LAT": "22.7366766",
+    "LONG": "88.1077925",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "0af8f9b8-b24a-4035-bbe4-8da49fa8d784",
+    "STATE": "West Bengal",
+    "DISTRICT": "Howrah",
+    "LAT": "22.531689",
+    "LONG": "88.2123297",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "1abed7f2-3edc-4cea-877f-03418e46da55",
+    "STATE": "West Bengal",
+    "DISTRICT": "Jalpaiguri",
+    "LAT": "26.5077935",
+    "LONG": "88.6870474",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "e8d56ac6-7678-4981-a975-4d26f80d1dd5",
+    "STATE": "West Bengal",
+    "DISTRICT": "Jhargram",
+    "LAT": "22.4277834",
+    "LONG": "87.0102692",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "5580b9a4-3d97-45ad-8702-6208e91a007f",
+    "STATE": "West Bengal",
+    "DISTRICT": "Kalimpong",
+    "LAT": "27.0347134",
+    "LONG": "88.4796482",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "6056bc81-c579-4250-bbfb-8ae6fe44b706",
+    "STATE": "West Bengal",
+    "DISTRICT": "Malda",
+    "LAT": "25.0683516",
+    "LONG": "88.1116812",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "94c1372b-2fd8-4fa4-9982-1a5088741775",
+    "STATE": "West Bengal",
+    "DISTRICT": "Murshidabad",
+    "LAT": "24.1631151",
+    "LONG": "88.2733434",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "19547dc3-de5c-4403-83cf-fc59fa5078d1",
+    "STATE": "West Bengal",
+    "DISTRICT": "Nadia",
+    "LAT": "23.210411",
+    "LONG": "88.5574794",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "8e6d4717-1a13-458a-bcdc-0adc474f91cd",
+    "STATE": "West Bengal",
+    "DISTRICT": "North 24 Pgs",
+    "LAT": "22.338556",
+    "LONG": "88.8390175",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "3fc33dda-b495-474c-a7cc-f3fb022d5397",
+    "STATE": "West Bengal",
+    "DISTRICT": "Paschim Bardhaman",
+    "LAT": "23.0654447",
+    "LONG": "87.8902026",
+    "ZOOM_FACTOR": "11"
+  },
+  {
+    "UID": "167f07d7-01c8-441b-bc21-bf277636666a",
+    "STATE": "West Bengal",
+    "DISTRICT": "Paschim Medinipur",
+    "LAT": "22.0100446",
+    "LONG": "87.3564164",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "fe76ee7f-1afb-4433-843a-5d52f05b0241",
+    "STATE": "West Bengal",
+    "DISTRICT": "Purba Burdwan",
+    "LAT": "23.1959718",
+    "LONG": "87.8762049",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "1af1f998-315e-4131-be26-219a457335a6",
+    "STATE": "West Bengal",
+    "DISTRICT": "Purba Mednipur",
+    "LAT": "22.0367965",
+    "LONG": "87.7705533",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "acfe347c-4fcb-475a-bcf2-5949286a97e0",
+    "STATE": "West Bengal",
+    "DISTRICT": "Purulia",
+    "LAT": "23.3035492",
+    "LONG": "86.3642758",
+    "ZOOM_FACTOR": "12"
+  },
+  {
+    "UID": "e8e09b32-c00a-4eb3-ac77-2349f90e2d80",
+    "STATE": "West Bengal",
+    "DISTRICT": "South 24 Parganas",
+    "LAT": "21.7161411",
+    "LONG": "88.5705683",
+    "ZOOM_FACTOR": "10"
+  },
+  {
+    "UID": "bf6dda03-ee5d-4c4e-bc79-d7b2ebed4e51",
+    "STATE": "West Bengal",
+    "DISTRICT": "Uttar Dinajpur",
+    "LAT": "25.5981415",
+    "LONG": "88.3278881",
+    "ZOOM_FACTOR": "11"
+  }
+]
