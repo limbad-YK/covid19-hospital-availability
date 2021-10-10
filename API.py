@@ -1,4 +1,4 @@
-from flask import Flask, Response, request, jsonify
+from flask import Flask, Response, request
 import pymongo
 import json
 import os 
@@ -7,11 +7,11 @@ app = Flask(__name__)
 
 try:
     mongo = pymongo.MongoClient(
-        host = "localhost",
+        host = "localhost",     # if you want to connect pymongo to another host then can change this line
         port = 27017,
         serverSelectionTimeoutMS = 1000
     )
-    db = mongo.company
+    db = mongo.company      # Database name is company
     mongo.server_info()
 except:
     print('Cannot connect to DB')
@@ -54,10 +54,10 @@ def main_page():
 
 @app.route('/login',methods = ['GET'])
 def login():
-    try:
-        for x in db.users.find({},{"email":request.form['email'],"pass":request.form['pass']}):
+    try:    # here users is collection in company database
+        for x in db.users.find({},{"email":request.form['email'],"pass":request.form['pass']}): # to find user in database
             return Response(
-                response = json.dumps({"message":"User identified",
+                response = json.dumps({"message":"Login success, User identified",
                                         "user":f"{x}",
                                         "link for redirect":"localhost:/index"}),
                 status = 200,
@@ -76,7 +76,7 @@ def add_user():
         email = request.form['email']
         passwd = request.form['pass']
 
-        db.users.insert_one({"email":email,"pass":passwd})
+        db.users.insert_one({"email":email,"pass":passwd})  # insert 1 document of userdata
 
         return Response(
             response = json.dumps({"message":"user added, Go back to login",
@@ -111,9 +111,9 @@ def index():
 @app.route('/availability',methods=['GET'])
 def show_details():
     try:
-        file=os.path.join("","Data.json")
+        file=os.path.join("","Data.json")   
         with open(file) as data:
-            res=json.load(data)
+            res=json.load(data)     # reads data from file Data.json
         return Response(
             response=json.dumps(res),
             status=200,
@@ -131,9 +131,10 @@ def search():
     try:
         file=os.path.join("","Data.json")
         with open(file) as data:
-          res=json.load(data)
+          res=json.load(data)   # reads data from Data.json
 
         l=list(filter(lambda x:x['STATE']==request.form['state'] and x['DISTRICT']==request.form['dist'],res))
+        # l is a list of results that are found from filtering Data.json
         return Response(
             response=json.dumps(l),
             status=200,
@@ -147,4 +148,4 @@ def search():
         )
 
 if __name__ == '__main__':
-    app.run(debug=True,port=80)
+    app.run(debug=True,port=80) # runs on port 80 to send response on postman
