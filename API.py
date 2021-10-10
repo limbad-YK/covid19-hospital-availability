@@ -1,4 +1,4 @@
-from flask import Flask, Response, request
+from flask import Flask, Response, request, jsonify
 import pymongo
 import json
 import os 
@@ -97,7 +97,7 @@ def index():
     try:
         return Response(
             response=json.dumps({"message":"Index page",
-                                "api for hospital availability":"https://api.covidbedsindia.in/v1/storages/60b1c92490b4574e2c831017/Districts"}),
+                                "api for hospital availability":"localhost/availability"}),
             status=200,
             mimetype="application/json"
         )
@@ -126,6 +126,25 @@ def show_details():
             mimetype="application/json"
         )
 
+@app.route('/availability/search',methods=['GET'])
+def search():
+    try:
+        file=os.path.join("","Data.json")
+        with open(file) as data:
+          res=json.load(data)
+
+        l=list(filter(lambda x:x['STATE']==request.form['state'] and x['DISTRICT']==request.form['dist'],res))
+        return Response(
+            response=json.dumps(l),
+            status=200,
+            mimetype='application/json'
+        )
+    except:
+        return Response(
+            response=json.dumps({"message":"Error in searching results"}),
+            status=500,
+            mimetype="application/json"
+        )
 
 if __name__ == '__main__':
     app.run(debug=True,port=80)
