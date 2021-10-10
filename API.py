@@ -55,7 +55,7 @@ def main_page():
 @app.route('/login',methods = ['GET'])
 def login():
     try:    # here users is collection in company database
-        for x in db.users.find({},{"email":request.form['email'],"pass":request.form['pass']}): # to find user in database
+        for x in db.users.find({"email":request.form['email'],"pass":request.form['pass']}): # to find user in database
             return Response(
                 response = json.dumps({"message":"Login success, User identified",
                                         "user":f"{x}",
